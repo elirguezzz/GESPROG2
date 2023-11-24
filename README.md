@@ -6,3 +6,4 @@ Iciar Mañueco Nales
 GESPRO
 
 Historia de Gestión de usuarios empezada el 24/11/2023
+Historia de Gestión monetaria empezada el 24/11/2023
