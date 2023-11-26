@@ -10,4 +10,6 @@ Historia de Gestión monetaria empezada el 24/11/2023 Historia de Gestión monet
 
 Historia de Gestión de reservas empezada el 25/11/2023
 Historia de Gestión de asesoria empezada el 25/11/2023
+Historia de Gestión de lugares de interes empezada el 25/11/2023
+
 
